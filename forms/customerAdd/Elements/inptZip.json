@@ -23,16 +23,16 @@
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
-  "header": "",
-  "headerCols": 2,
+  "header": "Zip:",
+  "headerCols": 3,
   "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "inptDelete",
+  "id": "inptZip",
   "inputType": "text",
   "inputmode": "",
-
+  "left": 37,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -68,7 +68,7 @@
   "pRight": "",
   "pTop": "",
   "passwordToggle": "",
-  "placeholder": "Who would you like to delete:",
+  "placeholder": "",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-
+  "top": 269,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 286
+  "width": 115
 }

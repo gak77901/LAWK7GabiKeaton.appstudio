@@ -14,29 +14,73 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-
+        "inptCustomer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "lblAnswer.json"
+        "inptAddress.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerDelete",
+        "customerAdd",
         "Elements",
-        "inptDelete.json"
+        "btnAdd.json"
       ]
-
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "txtCustAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "inptZip.json"
+      ]
     }
   ],
   "class": "",
@@ -45,7 +89,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerDelete",
+  "id": "customerAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -53,7 +97,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

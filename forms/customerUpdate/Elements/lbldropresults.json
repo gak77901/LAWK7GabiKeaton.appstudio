@@ -15,7 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-
+  "height": 21,
+  "hidden": "",
+  "id": "lbldropresults",
+  "labelStyle": "text",
+  "left": 43,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -38,5 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-
+  "top": 88,
+  "value": "",
+  "width": 8
 }
