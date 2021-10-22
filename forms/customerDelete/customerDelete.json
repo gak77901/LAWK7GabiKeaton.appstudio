@@ -16,7 +16,7 @@
         "forms",
         "customerDelete",
         "Elements",
-        "btnSubmit.json"
+
       ]
     },
     {
@@ -36,15 +36,7 @@
         "Elements",
         "inptDelete.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerDelete",
-        "Elements",
-        "txtCustDelete.json"
-      ]
+
     }
   ],
   "class": "",
@@ -61,7 +53,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "customerDelete.onshow()",
+
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

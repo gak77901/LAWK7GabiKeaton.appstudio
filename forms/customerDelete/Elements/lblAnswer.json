@@ -15,11 +15,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 26,
-  "hidden": "",
-  "id": "lblAnswer",
-  "labelStyle": "text",
-  "left": 24,
+
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +38,5 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 52,
-  "value": "",
-  "width": 287
+
 }
