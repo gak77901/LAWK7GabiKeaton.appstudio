@@ -24,18 +24,18 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": "auto",
+  "height": 34,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnEnter",
-
+  "id": "btnSubmit",
+  "left": 25,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnEnter.onclick()",
+  "onclick": "lblSubmit.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-
-  "value": "Enter",
+  "top": 171,
+  "value": "Submit",
   "width": "auto"
 }

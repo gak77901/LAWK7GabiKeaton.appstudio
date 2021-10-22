@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnEnter",
-
+  "id": "btnUpdate",
+  "left": 193,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnEnter.onclick()",
+  "onclick": "btnUpdate.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-
-  "value": "Enter",
+  "top": 281,
+  "value": "Update",
   "width": "auto"
 }
