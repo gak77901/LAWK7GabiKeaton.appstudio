@@ -28,7 +28,7 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "lblSubmit",
+  "id": "btnSubmit",
   "left": 25,
   "mAll": "",
   "mBottom": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 185,
+  "top": 171,
   "value": "Submit",
   "width": "auto"
 }
